@@ -1,4 +1,4 @@
-<h1 align="center">🐱 Peeking Cat</h1>
+<h1 align="center">MeawCat</h1>
 
 <p align="center">
   <img src="cat.png" alt="Peeking Cat" width="150">
