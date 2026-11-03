@@ -137,5 +137,3 @@ Your data is saved as JSON files next to `Main_file.pyw` (`settings.json`, `remi
 | YouTube music will not play | `pip install -U "yt-dlp[default]"` and install Deno or Node.js |
 | Cannot see the cat | Tray menu → *Call the cat home*, and check *Pause cat* is off |
 
-## License
-Free for personal and other non-commercial use under the PolyForm Noncommercial License 1.0.0. Selling it, or using it in a paid product or service, needs separate permission from the author.
